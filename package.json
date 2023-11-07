@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "style": "sass sass/styles.sass:css/styles.css",
+    "style:watch": "yarn style --watch"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
